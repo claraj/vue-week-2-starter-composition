@@ -1,10 +1,8 @@
 # Week 2 Vue.js starter code  
 
-* v-for 
-* forms - checkboxes
-* forms - select 
-* forms - radio buttons
+* v-for, v-if 
+* forms - input, checkboxes
 * .trim
-* .number
 * validation
+* styles
 * more computed properties
